@@ -15,7 +15,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F729&width=435&lines=Hi%2C+there!;I'm+Fabian+Vargas%2C+Ar2rotech;And+this+is+my+README)](https://git.io/typing-svg)
 
 ###
 
